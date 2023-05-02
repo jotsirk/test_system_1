@@ -1,0 +1,11 @@
+{
+  "name" : "test_system_1",
+  "cloneable" : true,
+  "externalId" : "6450eba22c391c7d4d8cd90a",
+  "nicCount" : 0,
+  "dockerImageName" : "",
+  "variables" : [ ],
+  "systemTypes" : [ "LINUX" ],
+  "type" : "SYSTEM",
+  "version" : 1
+}
